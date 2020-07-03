@@ -1,2 +1,2 @@
 # GoAnifire
-helping someone host on heroku
+helping someone host a goanifire site
